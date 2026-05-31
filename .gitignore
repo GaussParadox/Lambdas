@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Private keys (NEVER commit these!)
+keys/private.pem
+keys/*.key
+
+# Public keys (only for reference, can be stored in repo)
+!keys/public.pem
+
+# Test coverage
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.zip
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+.tmp/
+tmp/
+
+# AWS artifacts
+.aws-sam/
+samconfig.toml

@@ -1,0 +1,29 @@
+{
+  "name": "jose-encryptor",
+  "version": "1.0.0",
+  "description": "AWS Lambda function to encrypt payloads in JWE format using RSA keys",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "build": "echo 'Build complete'",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "jwe",
+    "encryption",
+    "jose"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jose": "^5.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.8"
+  }
+}
