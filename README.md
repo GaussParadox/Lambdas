@@ -369,6 +369,8 @@ git status
 <img width="1051" height="849" alt="image" src="https://github.com/user-attachments/assets/1df6f2ab-cd89-405b-bcdf-343035213197" />
 
 
+## Evidencias de funcionamiento desde la terminal
+<img width="1114" height="865" alt="image" src="https://github.com/user-attachments/assets/49cc3588-1b4b-4d99-95cf-23724b5c8199" />
 
 ## 📄 License
 
