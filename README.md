@@ -364,13 +364,11 @@ git status
 - [Architecture Overview](./ARCHITECTURE.md)
 - [Encryption Specifications](./ENCRYPTION.md)
 
-## 📞 Support
+## Evidencias de funcionamiento desde el front
+<img width="1503" height="987" alt="image" src="https://github.com/user-attachments/assets/cbad92ac-bd7e-4fb8-9548-f246316a748d" />
+<img width="1051" height="849" alt="image" src="https://github.com/user-attachments/assets/1df6f2ab-cd89-405b-bcdf-343035213197" />
 
-For issues or questions:
-1. Check the individual lambda READMEs
-2. Review the `.kiro/specs/` documents
-3. Run the test suites to verify functionality
-4. Check CloudWatch logs for Lambda execution details
+
 
 ## 📄 License
 
